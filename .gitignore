@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore virtual environment
+venv/
+
+# Ignore html report assets
+assets/
